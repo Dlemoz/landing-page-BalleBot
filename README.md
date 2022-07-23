@@ -6,4 +6,5 @@ Projeto recriando a landing page Balle Bot da comunidade do Discord da Rafaellla
 
 ### Links Úteis
 [Google Fonts](https://fonts.google.com/)
+<br>
 [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
